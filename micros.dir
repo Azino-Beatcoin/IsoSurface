@@ -1,0 +1,41 @@
+Triangulation View                            ‰   ‰
+============================================= ‰   ‰
+Project                                       ‰   ‰IsoSurface.pro
+main.cpp                                      ‰   ‰main.cpp
+                                              ‰   ‰
+class Trianglation                            ‰   ‰Triangulation.h
+    Implementation                            ‰   ‰Triangulation.cpp
+Main window                                   ‰   ‰mainwindow.h
+    Implementation                            ‰   ‰mainwindow.cpp
+    Part 2                                    ‰   ‰mainwindow2.cpp
+        In 3Dent                              ‰   ‰/c/3Dent7/ACRDOC30.CPP
+    Form                                      ‰   ‰mainwindow.ui
+DrawArea                                      ‰   ‰drawarea.h
+    Implementation                            ‰   ‰drawarea.cpp
+triFunc.h                                     ‰   ‰triFunc.h
+    triFunc.cpp                               ‰   ‰triFunc.cpp
+Skala method                                  ‰   ‰skala.h
+    skala.cpp                                 ‰   ‰skala.cpp
+                                              ‰   ‰
+r2geom.h                                      ‰   ‰r2geom.h
+R3Graph                                       ‰   ‰R3Graph.h
+                                              ‰   ‰
+cube.xml                                      ‰   ‰cube.xml
+tetrahedron.xml                               ‰   ‰tetrahedron.xml
+                                              ‰   ‰
+3D Region grow                                ‰   ‰ddd.cpp
+VoxelSet                                      ‰   ‰voxelset.h
+    Implementation                            ‰   ‰voxelset.cpp
+        In 3Dent                              ‰   ‰/c/3Dent7/VoxelSet.h
+                                              ‰   ‰/c/3Dent7/VoxelSet.cpp
+Roi                                           ‰   ‰roi.h
+    roi, implementation                       ‰   ‰roi.cpp
+voxel functions                               ‰   ‰voxfunc.h
+    Implementation                            ‰   ‰voxfunc.cpp
+                                              ‰   ‰
+Export dialog                                 ‰   ‰exp3ddlg.h
+    Implementation                            ‰   ‰exp3ddlg.cpp
+                                              ‰   ‰
+CardGeom                                      ‰   ‰/home/vvb/CardGeom/micros.dir
+IsoLine                                       ‰   ‰/home/vvb/Students/Rakhimova/Isoline/micros.dir
+.                                             ‰   ‰.

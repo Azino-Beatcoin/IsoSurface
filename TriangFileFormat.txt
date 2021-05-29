@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<triangualtion>
+  <vertices>
+    <vertex>
+        <coord>-1 -1 -1</coord>
+        <normal>0.33 0.66 -0.4</normal>
+    </vertex>
+    . . .
+  </vertices>
+  <triangles>
+    <triangle>0 7 4</triangle>
+    . . .
+  </triangles>
+</triangulation>

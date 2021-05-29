@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<triangulation>
+    <vertices>
+        <vertex>
+            <coord>-1 -1 -1</coord>
+            <normal>-1 -1 -1</normal>
+        </vertex>
+        <vertex>
+            <coord>1 -1 -1</coord>
+            <normal>1 -1 -1</normal>
+        </vertex>
+        <vertex>
+            <coord>1 1 -1</coord>
+            <normal>1 1 -1</normal>
+        </vertex>
+        <vertex>
+            <coord>-1 1 -1</coord>
+            <normal>-1 1 -1</normal>
+        </vertex>
+        <vertex>
+            <coord>-1 -1 1</coord>
+            <normal>-1 -1 1</normal>
+        </vertex>
+        <vertex>
+            <coord>1 -1 1</coord>
+            <normal>1 -1 1</normal>
+        </vertex>
+        <vertex>
+            <coord>1 1 1</coord>
+            <normal>1 1 1</normal>
+        </vertex>
+        <vertex>
+            <coord>-1 1 1</coord>
+            <normal>-1 1 1</normal>
+        </vertex>
+    </vertices>
+    <triangles>
+        <triangle>0 2 1</triangle>
+        <triangle>0 3 2</triangle>
+        <triangle>4 5 6</triangle>
+        <triangle>4 6 7</triangle>
+        <triangle>0 1 5</triangle>
+        <triangle>0 5 4</triangle>
+        <triangle>3 6 2</triangle>
+        <triangle>3 7 6</triangle>
+        <triangle>1 2 6</triangle>
+        <triangle>1 6 5</triangle>
+        <triangle>0 7 3</triangle>
+        <triangle>0 4 7</triangle>
+    </triangles>
+</triangulation>
